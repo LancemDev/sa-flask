@@ -7,7 +7,7 @@ def home():
     return 'Hello, Lancie!'
 
 @app.route('/gats')
-def home():
+def gats():
     return 'Hello, Gatsie!'
 
 @app.route('/about')
