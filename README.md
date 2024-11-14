@@ -2,7 +2,7 @@
 
 A modern, secure URL shortening service built with Flask, TailwindCSS, and PostgreSQL (Supabase). Create custom short links, track clicks, and manage your URLs with ease.
 
-![URL Shortener Screenshot](static/screenshot.png)
+![URL Shortener Screenshot](/api/static/screenshot.png)
 
 ## ✨ Features
 
